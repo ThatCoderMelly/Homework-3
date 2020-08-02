@@ -1,0 +1,25 @@
+.content{  
+  margin-top: 20px;
+  margin-bottom: 20px;
+  background-color: rgb(219, 88, 88);
+  padding: 40px;
+  width: 100%;  
+}
+
+
+#display{
+    
+    width: 80%;
+}
+
+#length{
+    
+    display: inline-block;
+    width: 200px;
+}
+
+#slider{
+    background-color: black;
+    width: 80%;
+    
+}
